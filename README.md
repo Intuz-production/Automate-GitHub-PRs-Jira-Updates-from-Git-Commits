@@ -12,7 +12,7 @@
 
 # Automate GitHub Pull Requests and JIRA Updates from Git Commits
 
-This n8n template from [Intuz](https://www.intuz.com/) delivers a complete and automated solution to streamline your development workflow for a single repository.
+This n8n template from Intuz delivers a complete and automated solution to streamline your development workflow for a single repository.
 
 By embedding specific keywords and a JIRA issue ID within your git commit commands, this workflow automatically creates a Pull Request in GitHub and simultaneously updates the corresponding JIRA ticket. This provides a complete, seamless integration that eliminates manual steps and keeps your project management perfectly in sync with your codebase.
 
